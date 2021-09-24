@@ -10,12 +10,12 @@ font-size: 15px;
 }
 
 body {
-background-color: #ffcce0;
+background-color: #554df5;
 }
 
 div {
   background-color: #ff80bf;
-  border: 5px ridge #b30047;
+  border: 5px ridge #140bc1;
   width:auto;
   height:auto;
   padding:5px;
@@ -36,7 +36,7 @@ overflow:hidden;
 }
 
 a {
-  color: #e6005c;
+  color: #211c8d;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
@@ -45,26 +45,26 @@ a:hover {
 }
 
 body {
-  color: #e6005c;
+  color: #110e48;
   font-family: Tahoma, Geneva, sans-serif
 }
 
 h1 {
-  color: #e6005c;
+  color: #110e48;
   font-family: Tahoma, Geneva, sans-serif
   padding: 0px;
   margin: 0px;
 }
 
 h2 {
-  color: #e6005c;
+  color: #110e48;
   font-family: Tahoma, Geneva, sans-serif
   padding: 0px;
   margin: 0px;
 }
 
 p {
-  color: #e6005c;
+  color: #110e48c;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
@@ -75,17 +75,17 @@ p {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #ffe6f0;
+  background: #8a89a9;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #b30047;
+  background: #140bc1;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #b30047;
+  background: #140bc1;
 }
 
 img {
