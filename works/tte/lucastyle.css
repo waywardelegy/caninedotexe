@@ -1,0 +1,113 @@
+.header {
+   background-color: #dcbcbe;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+font-size: 15px;
+}
+
+body {
+background-color: #dcbcbe;
+}
+
+div {
+  background-color: #dcbcbe;
+  border: 5px ridge #753e41;
+  width:auto;
+  height:auto;
+  padding:5px;
+  margin:15px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+ border: 5px ridge #753e41;
+}
+
+.col {
+  flex: 1;
+  padding: 5px;
+ border: 5px ridge #753e41;
+}
+
+.footer {
+   background-color: #dcbcbe;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+hr {
+  border: 5px ridge #753e41;
+}
+
+a {
+  color: #b0696d;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+a:hover {
+  color: #FFF;
+}
+
+body {
+  color: #b0696d;
+  font-family: Tahoma, Geneva, sans-serif
+}
+
+h1 {
+  color: #b0696d;
+  font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
+  margin: 0px;
+}
+
+h3 {
+  color: #b0696d;
+  font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
+  margin: 0px;
+}
+
+p {
+  color: #b0696d;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f6eeef;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #b0696d;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b0696d;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
