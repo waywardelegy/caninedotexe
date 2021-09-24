@@ -1,5 +1,5 @@
 .header {
-   background-color: #635eba;
+   background-color: #a4a0f8;
   width:auto;
   height:auto;
   padding:5px;
@@ -10,7 +10,7 @@ font-size: 15px;
 }
 
 body {
-background-color: #554df5;
+background-color: #a4a0f8;
 }
 
 div {
@@ -26,7 +26,7 @@ overflow:hidden;
 }
 
 .footer {
-   background-color: #ff80bf;
+   background-color: #a4a0f8;
   width:auto;
   height:auto;
   padding:5px;
@@ -45,26 +45,26 @@ a:hover {
 }
 
 body {
-  color: #110e48;
+  color: #190fd7;
   font-family: Tahoma, Geneva, sans-serif
 }
 
 h1 {
-  color: #110e48;
+  color: #190fd7;
   font-family: Tahoma, Geneva, sans-serif
   padding: 0px;
   margin: 0px;
 }
 
 h2 {
-  color: #110e48;
+  color: #190fd7;
   font-family: Tahoma, Geneva, sans-serif
   padding: 0px;
   margin: 0px;
 }
 
 p {
-  color: #110e48c;
+  color: #190fd7;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
