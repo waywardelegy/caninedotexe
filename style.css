@@ -1,5 +1,5 @@
 .header {
-   background-color: #a4a0f8;
+   background-color: #4d46dd;
   width:auto;
   height:auto;
   padding:5px;
@@ -14,7 +14,7 @@ background-color: #4238ff;
 }
 
 div {
-  background-color: #a4a0f8;
+  background-color: #4d46dd;
   border: 5px ridge #140bc1;
   width:auto;
   height:auto;
@@ -26,7 +26,7 @@ overflow:hidden;
 }
 
 .footer {
-   background-color: #a4a0f8;
+   background-color: #4d46dd;
   width:auto;
   height:auto;
   padding:5px;
@@ -36,7 +36,7 @@ overflow:hidden;
 }
 
 a {
-  color: #060080;
+  color: #1b1a38;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
@@ -45,26 +45,26 @@ a:hover {
 }
 
 body {
-  color: #0900bd;
+  color: #383573;
   font-family: Tahoma, Geneva, sans-serif
 }
 
 h1 {
-  color: #0900bd;
+  color: #383573;
   font-family: Tahoma, Geneva, sans-serif
   padding: 0px;
   margin: 0px;
 }
 
 h2 {
-  color: #0900bd;
+  color: #383573;
   font-family: Tahoma, Geneva, sans-serif
   padding: 0px;
   margin: 0px;
 }
 
 p {
-  color: #0900bd;
+  color: #383573;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
